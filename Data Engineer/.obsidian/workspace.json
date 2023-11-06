@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "a217469406a4e3fe",
+        "id": "840df0c581aa8ef7",
         "type": "tabs",
         "children": [
           {
-            "id": "0496501d21e19d00",
+            "id": "f0e7cfb9e45ec3be",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2 Areas/Career - Data Engineering/Interviews.canvas",
+                "file": "2 Areas/Career - Data Engineering/Data Structures.canvas",
                 "viewState": {
-                  "x": -4332.683432632348,
-                  "y": -626.8994602873906,
-                  "zoom": -0.9654303592587405
-                }
-              }
-            }
-          },
-          {
-            "id": "d9a2bec3c1c6e0d4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2 Areas/Career - Data Engineering/Interviews.canvas",
-                "viewState": {
-                  "x": -4406.281862748232,
-                  "y": -346.58325659247055,
-                  "zoom": -0.9682781593166538
+                  "x": 3819.375887880642,
+                  "y": 4169.972856664824,
+                  "zoom": -0.6073224728421946
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.5
   },
   "right": {
     "id": "5e6aaaa3499a845e",
@@ -104,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/Career - Data Engineering/Interviews.canvas",
+                "file": "2 Areas/Career - Data Engineering/Data Structures.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/Career - Data Engineering/Interviews.canvas",
+                "file": "2 Areas/Career - Data Engineering/Data Structures.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/Career - Data Engineering/Interviews.canvas"
+                "file": "2 Areas/Career - Data Engineering/Data Structures.canvas"
               }
             }
           }
@@ -153,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,57 +150,60 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9a2bec3c1c6e0d4",
+  "active": "f0e7cfb9e45ec3be",
   "lastOpenFiles": [
+    "2 Areas/Career - Data Engineering/Data Engineering.canvas",
+    "attachments/Pasted image 20230522112912.png",
+    "attachments/Pasted image 20230602095850.png",
+    "Daily Notes/2023-11-06.md",
+    "2 Areas/Career - Data Engineering/Interviews.canvas",
+    "2 Areas/Career - Data Engineering/Airflow.canvas",
+    "Daily Notes/2023-10-26.md",
+    "2 Areas/Career - Data Engineering/Test.md",
+    "attachments/Pasted image 20230516172237.png",
+    "Untitled.canvas",
+    "2 Areas/Career - Data Engineering/Books/Learning Spark 2.0.canvas",
+    "Daily Notes/2023-10-19.md",
+    "attachments/Pasted image 20230821092335.png",
+    "Daily Notes/2023-08-21.md",
+    "Daily Notes/2023-08-17.md",
+    "attachments/Pasted image 20230815093529.png",
+    "Daily Notes/2023-08-15.md",
+    "2 Areas/Career - Data Engineering/Books",
+    "Daily Notes/2023-07-28.md",
+    "Daily Notes/2023-07-18.md",
+    "2 Areas/Career - Data Engineering/Data Engineering Notes.md",
+    "Daily Notes/2023-07-17.md",
+    "Daily Notes/2023-07-15.md",
+    "attachments/Pasted image 20230714161208.png",
+    "attachments/Pasted image 20230714161158.png",
+    "attachments/Pasted image 20230714154651.png",
+    "attachments/Pasted image 20230714154335.png",
+    "attachments/Pasted image 20230714154147.png",
+    "2 Areas/Career - Data Engineering/Data Structures.canvas",
+    "2 Areas/Career - Data Engineering/Databricks.canvas",
+    "Daily Notes/2023-07-14.md",
+    "Daily Notes/2023-07-05.md",
+    "Daily Notes/2023-07-04.md",
+    "Daily Notes/2023-07-03.md",
+    "Daily Notes/2023-06-29.md",
+    "Daily Notes/2023-06-28.md",
+    "Daily Notes/2023-06-27.md",
+    "Daily Notes/2023-06-26.md",
+    "Daily Notes/2023-06-20.md",
+    "Daily Notes/2023-06-16.md",
+    "Daily Notes/2023-06-12.md",
     "Daily Notes/2023-06-09.md",
     "Daily Notes/2023-06-08.md",
-    "2 Areas/Career - Data Engineering/Interviews.canvas",
-    "2 Areas/Career - Data Engineering/Data Engineering Notes.md",
-    "Daily Notes/2023-06-07.md",
-    "2 Areas/Career - Data Engineering/Airflow.canvas",
-    "2 Areas/Career - Data Engineering/Canvas.canvas",
-    "Daily Notes/2023-06-06.md",
-    "Daily Notes/2023-06-05.md",
-    "Pasted image 20230602095850.png",
-    "Daily Notes/2023-06-02.md",
-    "Daily Notes/2023-06-01.md",
-    "Daily Notes/2023-05-31.md",
-    "Daily Notes/2023-05-30.md",
-    "Daily Notes/2023-05-29.md",
-    "Daily Notes/2023-05-25.md",
-    "Daily Notes/2023-05-24.md",
-    "Daily Notes/2023-05-23.md",
-    "Daily Notes/2023-05-22.md",
-    "Pasted image 20230522112912.png",
-    "Daily Notes/2023-05-17.md",
-    "Sharding Lookup.md",
-    "Daily Notes/2023-05-19.md",
-    "Daily Notes/2023-05-18.md",
-    "Daily Notes/2023-05-16.md",
-    "Pasted image 20230516172237.png",
-    "2 Areas/Career - Data Engineering/Test.md",
-    "2 Areas/Career - Data Engineering/Test.md",
-    "attachments/Pasted image 20230516170046.png",
-    "attachments/Pasted image 20230516162311.png",
     "2 Areas/Career - Data Engineering/Azure.canvas",
-    "attachments/Pasted image 20230516112946.png",
-    "attachments/Pasted image 20230516112631.png",
-    "attachments/Pasted image 20230516112150.png",
-    "attachments/Pasted image 20230516112120.png",
-    "attachments/Pasted image 20230516110904.png.md",
-    "DP 900.md",
-    "attachments/Pasted image 20230516095841.png",
-    "Daily Notes/Untitled.md",
     "1 Projects/Certificações Microsoft/DP 203",
     "1 Projects/Certificações Microsoft/DP 900",
-    "1 Projects/Certificações Microsoft.md",
     "1 Projects/Certificações Microsoft",
     "2 Areas/Career - Data Engineering",
     "templates",
     "Daily Notes",
     "attachments",
     "4 Archives",
-    "3 Resources",
-    "2 Areas"
+    "3 Resources"
   ]
 }
